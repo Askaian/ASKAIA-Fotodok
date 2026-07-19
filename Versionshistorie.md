@@ -1,4 +1,13 @@
-﻿# Versionshistorie ASKAIA Fotodok
+# Versionshistorie ASKAIA Fotodok
+
+## V0.5.1 (19.07.2026)
+- Startseite/Projektansicht repariert (uebergrosses Pfeilsymbol) und
+  aufgewertet: Vorschaubild (erstes Foto), Erstelldatum auf Doku-Karten
+- Protokoll-Import ueberarbeitet: Bauteil als eigener Baustein plus die
+  EINZELNEN Schadensbeschreibungen aus "Zustand / Schaeden" als separat
+  antippbare Chips (an Komma/Zeilenumbruch getrennt); Zustandstexte werden
+  robust ueber alle Spalten unterhalb der Ueberschrift eingesammelt
+- PC-Version (ASKAIA_Fotodok.html) neu als Download am Release
 
 ## V0.5.0 (19.07.2026) - erste APK
 - Meilenstein 5: JSON-Backup inkl. Fotos, stilles Auto-Backup,

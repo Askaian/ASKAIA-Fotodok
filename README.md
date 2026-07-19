@@ -1,4 +1,4 @@
-﻿# ASKAIA Fotodok
+# ASKAIA Fotodok
 
 Foto-Dokumentationen direkt auf dem Handy oder am PC erstellen und als fertige
 Word-Datei (.docx) nach Vorlage ausgeben - offline, ohne Konto, ohne Tracking.
@@ -9,6 +9,9 @@ Word-Datei (.docx) nach Vorlage ausgeben - offline, ohne Konto, ohne Tracking.
 
 Der Link zeigt immer auf die aktuelle Version. Beim ersten Mal muss Android
 das Installieren aus unbekannten Quellen erlauben.
+
+**PC-Version:** [ASKAIA_Fotodok.html herunterladen](https://github.com/Askaian/ASKAIA-Fotodok/releases/latest/download/ASKAIA_Fotodok.html)
+und lokal im Browser oeffnen (Chrome/Edge). Alle Daten bleiben auf dem PC.
 
 ## Was die App kann
 
