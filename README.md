@@ -10,8 +10,15 @@ Word-Datei (.docx) nach Vorlage ausgeben - offline, ohne Konto, ohne Tracking.
 Der Link zeigt immer auf die aktuelle Version. Beim ersten Mal muss Android
 das Installieren aus unbekannten Quellen erlauben.
 
-**PC-Version:** [ASKAIA_Fotodok.html herunterladen](https://github.com/Askaian/ASKAIA-Fotodok/releases/latest/download/ASKAIA_Fotodok.html)
-und lokal im Browser oeffnen (Chrome/Edge). Alle Daten bleiben auf dem PC.
+**PC-Version (empfohlen): [askaian.github.io/ASKAIA-Fotodok](https://askaian.github.io/ASKAIA-Fotodok/)**
+Im Browser oeffnen - die App merkt sich alle Daten dauerhaft (fester
+Speicherort), aktualisiert sich selbst und laeuft nach dem ersten Besuch
+auch offline. Alle Daten bleiben lokal im Browser auf dem PC.
+
+Alternativ: [ASKAIA_Fotodok.html herunterladen](https://github.com/Askaian/ASKAIA-Fotodok/releases/latest/download/ASKAIA_Fotodok.html)
+und lokal oeffnen (Achtung: Browser behandeln lokale Dateien beim
+Speichern unterschiedlich - Firefox vergisst die Daten beim Dateiwechsel;
+regelmaessig das JSON-Backup nutzen).
 
 ## Was die App kann
 

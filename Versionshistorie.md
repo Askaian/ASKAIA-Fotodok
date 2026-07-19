@@ -1,5 +1,11 @@
 # Versionshistorie ASKAIA Fotodok
 
+## V0.5.2 (19.07.2026)
+- PC-Version als Web-App (PWA) auf GitHub Pages: fester Link mit
+  dauerhaftem Browserspeicher, Offline-Faehigkeit (Service Worker),
+  automatischen Updates und Installieren-Option
+- App bittet den Browser um dauerhaften Speicher (storage.persist)
+
 ## V0.5.1 (19.07.2026)
 - Startseite/Projektansicht repariert (uebergrosses Pfeilsymbol) und
   aufgewertet: Vorschaubild (erstes Foto), Erstelldatum auf Doku-Karten
